@@ -1,0 +1,66 @@
+.fa-paper-plane{
+  position: relative;
+  font-size: 100px;
+  width: 20px;
+  position: relative;
+  left: 50px;
+}
+
+.icon1 h3, .icon1 h4{
+  color: grey;
+  width: 200px;
+  text-align: center;
+  position: relative;
+  left: 15PX;
+}
+
+.icon1 p{
+  color: purple;
+  height: 300px;
+  width: 300px;
+  border: white;
+  position: relative;
+
+}
+
+.icon1{
+  font-family: 'Permanent Marker', cursive;
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+
+.fa-coffee{
+  position: relative;
+  font-size: 100px;
+  width: 20px;
+  position: relative;
+  left: 450px;
+  bottom: 110PX;
+}
+
+.icon2 h3, .icon2 h4{
+  color: grey;
+  width: 300px;
+  position: relative;
+  left: 400px;
+  bottom: 100PX;
+}
+
+.icon2 p{
+  color: blue;
+  height: 300px;
+  width: 300px;
+  border: white;
+  position: relative;
+  left: 400px;
+  bottom:90PX;
+}
+
+.icon2{
+  font-family: 'Nosifer', cursive;
+    position: relative;
+    width: 300px;
+    height: 300px;
+  }
